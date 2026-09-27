@@ -1,0 +1,8 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Datasets (download separately, see README)
+creditcard.csv
+*.csv.zip
